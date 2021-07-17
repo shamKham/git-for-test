@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+$font-family-sans-serif:  'Poppins', sans-serif;
+.nav-link{
+  margin-right: 20px;
+  font-size: 1rem;
+}
+.coffee-img{
+  position: relative;
+  justify-self: center;
+  padding-top: 1rem;
+}
+.coffee-img img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition:5s;
+}
+move1:hover{
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
